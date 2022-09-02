@@ -1,3 +1,2 @@
-[Live Site](https://xbayazid.github.io/phone-hunter-api/){:target="_blank" rel="noopener"}
-[Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
+**[Live Site](https://xbayazid.github.io/phone-hunter-api/)**
 ![](images/preview.png)
